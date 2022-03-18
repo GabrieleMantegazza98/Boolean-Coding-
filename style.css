@@ -1,0 +1,61 @@
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+  padding: 90px;
+  background-repeat: no-repeat;
+  font-family: 'Ubuntu', sans-serif
+}
+
+section{
+  margin: 20px 0;
+}
+
+label{
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+img{
+  width: 260px;
+}
+.pagina{
+  background: rgba(0, 0, 0, 0.5);
+  padding: 70px;
+
+}
+header{
+  color: #32CD32;
+  text-align: center;
+}
+nav{
+  background-color: #32CD32;
+  padding: 15px;
+  text-align: center;
+}
+
+main{
+  color: white;
+}
+
+.carica{
+  height: 25px;
+  border-radius: 2%;
+  border-width: inherit;
+  display: inline-block;
+  margin-top:0;
+}
+.media{
+  background-color: #FFA500;
+  width: 35%;
+}
+.piena{
+  background-color: #32CD32;
+  width: 50%
+}
+.bassa{
+  background-color: #B22222;
+  width: 8%
+}
+p{
+  margin: 5px 0;
+}
